@@ -5426,5 +5426,11 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "Introduction to Computer Networks (Kurose & Ross)",
+        "courseOER": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "courseLicense": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "lessons": []
     }
 ]
