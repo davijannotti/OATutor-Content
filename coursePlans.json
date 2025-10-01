@@ -5431,6 +5431,17 @@
         "courseName": "Introduction to Computer Networks (Kurose & Ross)",
         "courseOER": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
         "courseLicense": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
-        "lessons": []
+        "lessons": [
+            {
+                "id": "lesson1",
+                "name": " What is the Internet? ",
+                "topics": "Chapter goals; a nuts-and-bolts and a services description. What is a protocol?",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "differentiate_internet_views": 0.85,
+                    "define_protocol_purpose": 0.85
+                }
+            }
+        ]
     }
 ]

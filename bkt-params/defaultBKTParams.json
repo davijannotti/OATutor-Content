@@ -5674,5 +5674,89 @@
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
+    },
+    "differentiate_internet_views": {
+        "probMastery": 0.4,
+        "probTransit": 0.25,
+        "probSlip": 0.1,
+        "probGuess": 0.25
+    },
+    "define_protocol_purpose": {
+        "probMastery": 0.4,
+        "probTransit": 0.25,
+        "probSlip": 0.1,
+        "probGuess": 0.25
+    },
+    "identify_edge_components": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "compare_access_networks": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "differentiate_switching_methods": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "define_forwarding_vs_routing": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "explain_network_of_networks": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "identify_sources_of_delay": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "calculate_basic_delay": {
+        "probMastery": 0.05,
+        "probTransit": 0.1,
+        "probSlip": 0.25,
+        "probGuess": 0.15
+    },
+    "define_throughput_bottleneck": {
+        "probMastery": 0.05,
+        "probTransit": 0.1,
+        "probSlip": 0.25,
+        "probGuess": 0.15
+    },
+    "explain_purpose_of_layering": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "define_encapsulation": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "classify_security_threats": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.2,
+        "probGuess": 0.25
+    },
+    "recall_key_internet_milestones": {
+        "probMastery": 0.15,
+        "probTransit": 0.15,
+        "probSlip": 0.1,
+        "probGuess": 0.1
     }
 }
