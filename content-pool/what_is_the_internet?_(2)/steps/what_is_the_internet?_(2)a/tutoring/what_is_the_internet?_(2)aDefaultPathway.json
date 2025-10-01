@@ -1,0 +1,12 @@
+[
+    {
+        "id": "what_is_the_internet?_(2)-h1",
+        "dependencies": [],
+        "title": "Focus on the \"services\" perspective",
+        "text": "This question is about what the Internet offers to users and developers, not about the physical infrastructure. Look for descriptions that emphasize applications, communication, and services rather than hardware or protocols.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]
