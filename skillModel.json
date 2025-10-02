@@ -39811,5 +39811,9 @@
     "access_network_per-subscriber_speeds_(5)": [
         "compare_access_networks",
         "identify_edge_components"
+    ],
+    "link_transmission_characteristics": [
+        "compare_access_networks",
+        "identify_edge_components"
     ]
 }

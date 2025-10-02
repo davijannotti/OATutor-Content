@@ -1,0 +1,12 @@
+[
+    {
+        "id": "link_transmission_characteristics-h1",
+        "dependencies": [],
+        "title": "Think speed and reliability",
+        "text": "The question is asking about the fastest transmission rate and the lowest error rate. Focus on the physical medium that can carry signals at very high speeds over long distances, with minimal interference compared to wireless or copper-based technologies.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]
