@@ -5451,6 +5451,17 @@
                     "identify_edge_components": 0.85,
                     "compare_access_networks": 0.85
                 }
+            },
+            {
+                "id": "lesson3",
+                "name": "The Network Core",
+                "topics": "Forwarding, routing; packet switching; curcuit switching; a network of networks",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "differentiate_switching_methods": 0.85,
+                    "define_forwarding_vs_routing": 0.85,
+                    "explain_network_of_networks": 0.85
+                }
             }
         ]
     }

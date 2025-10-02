@@ -1,0 +1,12 @@
+[
+    {
+        "id": "routing_versus_forwarding-h1",
+        "dependencies": [],
+        "title": "Local vs. Global actions",
+        "text": "Think about scope: forwarding happens inside a router, moving packets from an input to an output link. Routing, on the other hand, is about the bigger picture \u2014 computing the end-to-end paths that packets will follow across the network.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

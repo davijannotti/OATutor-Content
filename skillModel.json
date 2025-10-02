@@ -39815,5 +39815,11 @@
     "link_transmission_characteristics": [
         "compare_access_networks",
         "identify_edge_components"
+    ],
+    "routing_versus_forwarding": [
+        "define_forwarding_vs_routing"
+    ],
+    "packet_switching_versus_circuit_switching_(1)_": [
+        "differentiate_switching_methods"
     ]
 }
