@@ -39791,5 +39791,25 @@
     "what_is_a_protocol?": [
         "differentiate_internet_views",
         "define_protocol_purpose"
+    ],
+    "access_network_per-subscriber_speeds": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(2)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(3)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(4)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(5)": [
+        "compare_access_networks",
+        "identify_edge_components"
     ]
 }

@@ -5441,6 +5441,16 @@
                     "differentiate_internet_views": 0.85,
                     "define_protocol_purpose": 0.85
                 }
+            },
+            {
+                "id": "lesson2",
+                "name": "The Network Edge",
+                "topics": "Access networks, physical media",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "identify_edge_components": 0.85,
+                    "compare_access_networks": 0.85
+                }
             }
         ]
     }

@@ -1,0 +1,23 @@
+{
+    "id": "access_network_per-subscriber_speeds",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Match the access network with the approximate speeds a subscriber might experience: Digital Subscriber Line",
+    "stepBody": "",
+    "stepAnswer": [
+        "Wired. Up to 10\u2019s of Mbps downstream per user."
+    ],
+    "answerType": "string",
+    "choices": [
+        "Wireless. Up to 10\u2019s Mbps per device.",
+        "Wired. Up to 1 Tbps per link.",
+        "Wired. Up to 10\u2019s of Mbps downstream per user.",
+        "Wired. Up to 10\u2019s to 100\u2019s of Mbps downstream per user.",
+        "Wireless, up to 10's Kbps per device.",
+        "Wireless. 10\u2019s to 100\u2019s of Mbps per device.",
+        "Wired. Up to 100's Gbps per link."
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson2"
+}
