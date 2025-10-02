@@ -39821,5 +39821,9 @@
     ],
     "packet_switching_versus_circuit_switching_(1)_": [
         "differentiate_switching_methods"
+    ],
+    "packet_switching_versus_circuit_switching_(2)": [
+        "differentiate_switching_methods",
+        "explain_network_of_networks"
     ]
 }
