@@ -39829,5 +39829,17 @@
     "how_many_calls_can_be_carried": [
         "differentiate_switching_methods",
         "explain_network_of_networks"
+    ],
+    "what_is_a_network_of_networks": [
+        "explain_network_of_networks"
+    ],
+    "packet_switching_or_circuitswitching": [
+        "differentiate_switching_methods"
+    ],
+    "packet_switching_or_circuitswitching_2": [
+        "differentiate_switching_methods"
+    ],
+    "packet_switching_or_circuitswitching_3": [
+        "differentiate_switching_methods"
     ]
 }

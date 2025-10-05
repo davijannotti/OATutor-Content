@@ -1,0 +1,21 @@
+{
+    "id": "what_is_a_network_of_networks",
+    "problemType": "MultipleChoice",
+    "stepTitle": "   When we say that the Internet is a \u201cnetwork of networks,\u201d we mean? Check all that apply (hint: check two or more).",
+    "stepBody": "",
+    "stepAnswer": [
+        "The Internet is made up of access networks at the edge, tier-1 networks at the core, and interconnected regional and content provider networks as well.",
+        "The Internet is made up of a lot of different networks that are interconnected to each other."
+    ],
+    "answerType": "MultipleSelect",
+    "choices": [
+        "The Internet is the largest network ever built.",
+        "The Internet is made up of a lot of different networks that are interconnected to each other.",
+        "The Internet is the fastest network ever built.",
+        "The Internet is made up of access networks at the edge, tier-1 networks at the core, and interconnected regional and content provider networks as well."
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson3"
+}
