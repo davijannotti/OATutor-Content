@@ -5462,6 +5462,17 @@
                     "define_forwarding_vs_routing": 0.85,
                     "explain_network_of_networks": 0.85
                 }
+            },
+            {
+                "id": "lesson4",
+                "name": "Performance: Delay, Loss and Throughput in Computer Networks",
+                "topics": "Packet delay and loss, end-end throughput",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "identify_sources_of_delay": 0.85,
+                    "calculate_basic_delay": 0.85,
+                    "define_throughput_bottleneck": 0.85
+                }
             }
         ]
     }

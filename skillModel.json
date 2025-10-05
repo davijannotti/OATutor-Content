@@ -39841,5 +39841,25 @@
     ],
     "packet_switching_or_circuitswitching_3": [
         "differentiate_switching_methods"
+    ],
+    "components_of_packet_delay": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "components_of_packet_delay_2": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "components_of_packet_delay_3": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "components_of_packet_delay_4": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
     ]
 }
