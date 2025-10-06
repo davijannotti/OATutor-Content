@@ -1,0 +1,12 @@
+[
+    {
+        "id": "layers_in_the_internet_protocol_stack-h1",
+        "dependencies": [],
+        "title": "Match layers to their main function",
+        "text": "Think about the scope of each layer:\n\nApplication Layer \u2013 concerned with network applications and what users interact with. Handles protocols like HTTP, FTP, and DNS.\n\nTransport Layer \u2013 responsible for process-to-process communication, ensuring reliable or best-effort data transfer between programs on different hosts (e.g., TCP, UDP).\n\nNetwork Layer \u2013 delivers packets/datagrams from a source host to a destination host across multiple networks (e.g., IP).\n\nLink Layer \u2013 transfers data between neighboring devices over a single network link.\n\nPhysical Layer \u2013 moves bits into and out of the physical transmission medium (e.g., electrical, optical, or radio signals).",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "id": "whats_a_packet_really_called_3",
+    "title": "What\u2019s a \u201cpacket\u201d really called? (3)",
+    "body": "Match the name of an Internet layer with unit of data that is exchanged among protocol entities at that layer.\n",
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson5",
+    "courseName": "Introduction to Computer Networks (Kurose & Ross)"
+}

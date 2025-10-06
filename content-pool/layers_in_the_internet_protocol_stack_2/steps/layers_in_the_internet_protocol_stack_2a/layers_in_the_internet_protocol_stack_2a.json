@@ -1,0 +1,21 @@
+{
+    "id": "layers_in_the_internet_protocol_stack_2",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Transfer of data between one process and another process (typically on different hosts).",
+    "stepBody": "",
+    "stepAnswer": [
+        "Transport layer"
+    ],
+    "answerType": "string",
+    "choices": [
+        "Transport layer",
+        "Physical layer",
+        "Application Layer",
+        "Network layer",
+        "Link layer"
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson5"
+}

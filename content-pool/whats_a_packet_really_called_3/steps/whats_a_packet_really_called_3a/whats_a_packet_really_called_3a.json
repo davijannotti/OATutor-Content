@@ -1,0 +1,21 @@
+{
+    "id": "whats_a_packet_really_called_3",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Network layer",
+    "stepBody": "",
+    "stepAnswer": [
+        "Datagram"
+    ],
+    "answerType": "string",
+    "choices": [
+        "Bit",
+        "Datagram",
+        "Frame",
+        "Segment",
+        "Message"
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson5"
+}

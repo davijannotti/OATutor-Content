@@ -5473,6 +5473,16 @@
                     "calculate_basic_delay": 0.85,
                     "define_throughput_bottleneck": 0.85
                 }
+            },
+            {
+                "id": "lesson5",
+                "name": "Protocol layers and Their Service Models",
+                "topics": "Layered architecture, encapulation.",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "define_encapsulation": 0.85,
+                    "explain_purpose_of_layering": 0.85
+                }
             }
         ]
     }

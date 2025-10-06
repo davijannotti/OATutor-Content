@@ -39906,5 +39906,61 @@
         "identify_sources_of_delay",
         "calculate_basic_delay",
         "define_throughput_bottleneck"
+    ],
+    "layers_in_the_internet_protocol_stack": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_2": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_3": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_4": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_5": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_2": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_3": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_4": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_5": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "protocol_headers": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "protocol_headers_2": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "protocol_headers_3": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "what_is_encapsulation": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
     ]
 }
