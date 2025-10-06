@@ -39891,5 +39891,20 @@
         "identify_sources_of_delay",
         "calculate_basic_delay",
         "define_throughput_bottleneck"
+    ],
+    "computing_utililization_1": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
+    ],
+    "computing_utililization_2": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
+    ],
+    "computing_utililization_3": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
     ]
 }

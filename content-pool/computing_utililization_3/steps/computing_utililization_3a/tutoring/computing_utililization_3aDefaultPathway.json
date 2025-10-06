@@ -1,0 +1,12 @@
+[
+    {
+        "id": "computing_utililization_3-h1",
+        "dependencies": [],
+        "title": "Utilization is limited by the flow rate and link capacity",
+        "text": "Link utilization is defined as:\n$$\\text{Utilization} = \\frac{\\text{actual throughput on the link}}{\\text{link capacity}}$$\n\nFor the client links:\n\nEach flow\u2019s throughput = $$\\min(R_S, R/4, R_C) = 50\\ \\text{Mbps}$$\n\nEach client link only carries one flow, so the actual throughput on the link = $$50\\ \\text{Mbps}$$\n\nClient link capacity = $$R_C = 90\\ \\text{Mbps}$$",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

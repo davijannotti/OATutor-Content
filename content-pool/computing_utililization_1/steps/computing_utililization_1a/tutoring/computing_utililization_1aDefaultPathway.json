@@ -1,0 +1,12 @@
+[
+    {
+        "id": "computing_utililization_1-h1",
+        "dependencies": [],
+        "title": "Utilization is the ratio of used capacity to total capacity",
+        "text": "Link utilization is defined as:\n$$\\text{Utilization} = \\frac{\\text{actual throughput on the link}}{\\text{link capacity}}$$\n\nFor each server link, the actual throughput is limited by the smallest capacity along the end-to-end path. From the previous analysis:\n\nEach pair\u2019s throughput = $$\\min(R_S, R/4, R_C) = \\min(50, 75, 90) = 50\\ \\text{Mbps}$$\n\nServer link capacity = $$R_S = 50\\ \\text{Mbps}$$",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]
