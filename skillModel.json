@@ -39861,5 +39861,35 @@
         "identify_sources_of_delay",
         "define_throughput_bottleneck",
         "calculate_basic_delay"
+    ],
+    "computing_packet_transmission_delay_1": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_packet_transmission_delay_2": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_packet_transmission_delay_3": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_propagation_delay": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_throughput_a_simple_scenario": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_throughput": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "id": "computing_packet_transmission_delay_1",
+    "title": "Computing Packet Transmission Delay (1)",
+    "body": "Suppose a packet is L = 1500 bytes long (one byte = 8 bits), and link transmits at R = 1 Gbps (i.e., a link can transmit bits 1,000,000,000 bits per second).  What is the transmission delay for this packet?  \\n##1.4.2.png##",
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson4",
+    "courseName": "Introduction to Computer Networks (Kurose & Ross)"
+}

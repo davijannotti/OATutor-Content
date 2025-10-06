@@ -1,0 +1,10 @@
+{
+    "id": "computing_propagation_delay",
+    "title": "Computing Propagation Delay",
+    "body": "Consider the network shown in the figure below, with three links, each with the specified transmission rate and link length. Assume the length of a packet is 8000 bits. The speed of light propagation delay on each link is 3x10^8 m/sec\n\nWhat is the propagation delay at (along) link 2? \\n##1.4.4.png##",
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson4",
+    "courseName": "Introduction to Computer Networks (Kurose & Ross)"
+}

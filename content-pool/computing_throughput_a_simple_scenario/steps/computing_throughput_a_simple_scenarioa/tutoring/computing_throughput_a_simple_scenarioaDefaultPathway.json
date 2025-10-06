@@ -1,0 +1,12 @@
+[
+    {
+        "id": "computing_throughput_a_simple_scenario-h1",
+        "dependencies": [],
+        "title": "The bottleneck determines throughput",
+        "text": "Throughput is limited by the slowest link (the bottleneck) along the end-to-end path between sender and receiver. Even if some links are faster, data cannot be transmitted faster than the narrowest point allows.\nUse the idea:\n$ \\text{Throughput}_{\\text{end-to-end}} = \\min(R_1, R_2, R_3, \\ldots) $",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]
