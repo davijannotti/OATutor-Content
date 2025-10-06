@@ -1,0 +1,20 @@
+{
+    "id": "components_of_packet_delay",
+    "problemType": "MultipleChoice",
+    "stepTitle": "Time needed to perform an integrity check, lookup packet information in a local table and move the packet from an input link to an output link in a router.",
+    "stepBody": "",
+    "stepAnswer": [
+        "Processing delay"
+    ],
+    "answerType": "string",
+    "choices": [
+        "Queueing delay",
+        "Transmission delay",
+        "Processing delay",
+        "Propagation delay"
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson4"
+}

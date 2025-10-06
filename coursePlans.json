@@ -5426,5 +5426,64 @@
                 }
             }
         ]
+    },
+    {
+        "courseName": "Introduction to Computer Networks (Kurose & Ross)",
+        "courseOER": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "courseLicense": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "lessons": [
+            {
+                "id": "lesson1",
+                "name": " What is the Internet? ",
+                "topics": "Chapter goals; a nuts-and-bolts and a services description. What is a protocol?",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "differentiate_internet_views": 0.85,
+                    "define_protocol_purpose": 0.85
+                }
+            },
+            {
+                "id": "lesson2",
+                "name": "The Network Edge",
+                "topics": "Access networks, physical media",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "identify_edge_components": 0.85,
+                    "compare_access_networks": 0.85
+                }
+            },
+            {
+                "id": "lesson3",
+                "name": "The Network Core",
+                "topics": "Forwarding, routing; packet switching; curcuit switching; a network of networks",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "differentiate_switching_methods": 0.85,
+                    "define_forwarding_vs_routing": 0.85,
+                    "explain_network_of_networks": 0.85
+                }
+            },
+            {
+                "id": "lesson4",
+                "name": "Performance: Delay, Loss and Throughput in Computer Networks",
+                "topics": "Packet delay and loss, end-end throughput",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "identify_sources_of_delay": 0.85,
+                    "calculate_basic_delay": 0.85,
+                    "define_throughput_bottleneck": 0.85
+                }
+            },
+            {
+                "id": "lesson5",
+                "name": "Protocol layers and Their Service Models",
+                "topics": "Layered architecture, encapulation.",
+                "allowRecycle": true,
+                "learningObjectives": {
+                    "define_encapsulation": 0.85,
+                    "explain_purpose_of_layering": 0.85
+                }
+            }
+        ]
     }
 ]

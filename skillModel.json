@@ -39775,5 +39775,192 @@
     ],
     "ad4fd60center9a": [
         "arc_length_of_the_curve"
+    ],
+    "_what_is_the_internet?_": [
+        "differentiate_internet_views",
+        "define_protocol_purpose"
+    ],
+    "what_is_the_internet?": [
+        "differentiate_internet_views",
+        "define_protocol_purpose"
+    ],
+    "what_is_the_internet?_(2)": [
+        "differentiate_internet_views",
+        "define_protocol_purpose"
+    ],
+    "what_is_a_protocol?": [
+        "differentiate_internet_views",
+        "define_protocol_purpose"
+    ],
+    "access_network_per-subscriber_speeds": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(2)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(3)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(4)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "access_network_per-subscriber_speeds_(5)": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "link_transmission_characteristics": [
+        "compare_access_networks",
+        "identify_edge_components"
+    ],
+    "routing_versus_forwarding": [
+        "define_forwarding_vs_routing"
+    ],
+    "packet_switching_versus_circuit_switching_(1)_": [
+        "differentiate_switching_methods"
+    ],
+    "packet_switching_versus_circuit_switching_(2)": [
+        "differentiate_switching_methods",
+        "explain_network_of_networks"
+    ],
+    "how_many_calls_can_be_carried": [
+        "differentiate_switching_methods",
+        "explain_network_of_networks"
+    ],
+    "what_is_a_network_of_networks": [
+        "explain_network_of_networks"
+    ],
+    "packet_switching_or_circuitswitching": [
+        "differentiate_switching_methods"
+    ],
+    "packet_switching_or_circuitswitching_2": [
+        "differentiate_switching_methods"
+    ],
+    "packet_switching_or_circuitswitching_3": [
+        "differentiate_switching_methods"
+    ],
+    "components_of_packet_delay": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "components_of_packet_delay_2": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "components_of_packet_delay_3": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "components_of_packet_delay_4": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_packet_transmission_delay_1": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_packet_transmission_delay_2": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_packet_transmission_delay_3": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_propagation_delay": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_throughput_a_simple_scenario": [
+        "identify_sources_of_delay",
+        "define_throughput_bottleneck",
+        "calculate_basic_delay"
+    ],
+    "computing_throughput": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
+    ],
+    "computing_utililization_1": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
+    ],
+    "computing_utililization_2": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
+    ],
+    "computing_utililization_3": [
+        "identify_sources_of_delay",
+        "calculate_basic_delay",
+        "define_throughput_bottleneck"
+    ],
+    "layers_in_the_internet_protocol_stack": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_2": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_3": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_4": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "layers_in_the_internet_protocol_stack_5": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_2": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_3": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_4": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "whats_a_packet_really_called_5": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "protocol_headers": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "protocol_headers_2": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "protocol_headers_3": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
+    ],
+    "what_is_encapsulation": [
+        "define_encapsulation",
+        "explain_purpose_of_layering"
     ]
 }

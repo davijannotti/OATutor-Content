@@ -1,0 +1,22 @@
+{
+    "id": "what_is_the_internet?_(2)",
+    "problemType": "MultipleChoice",
+    "stepTitle": " Which of the following descriptions below correspond to a \"services\" view of the Internet? Select one or more of the answers below below that are correct below that are correct.  [Hint: more than one of answers below are correct].",
+    "stepBody": "",
+    "stepAnswer": [
+        "A place I go for information, entertainment, and to communicate with people.",
+        "A platform for building network applications."
+    ],
+    "answerType": "MultipleSelect",
+    "choices": [
+        "A place I go for information, entertainment, and to communicate with people.",
+        "A platform for building network applications.",
+        "A \"network of networks\".",
+        "A collection of billions of computing devices, and packet switches interconnected by links.",
+        "A collection of hardware and software components executing protocols that define the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event."
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson1"
+}

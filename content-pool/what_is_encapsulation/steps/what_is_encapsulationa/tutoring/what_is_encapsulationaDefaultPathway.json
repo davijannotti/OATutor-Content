@@ -1,0 +1,12 @@
+[
+    {
+        "id": "what_is_encapsulation-h1",
+        "dependencies": [],
+        "title": "Think about how layers wrap data",
+        "text": "Encapsulation is the process by which each layer of the Internet protocol stack adds its own header (and sometimes a trailer) to the data received from the layer above. This allows the lower layer to transmit the data correctly to the next hop.\n\nKey idea: \u201cTake the data from the layer above \u2192 add a header for this layer \u2192 place in payload field of this layer\u2019s packet/frame.\u201d",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

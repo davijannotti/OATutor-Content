@@ -1,0 +1,12 @@
+[
+    {
+        "id": "computing_throughput-h1",
+        "dependencies": [],
+        "title": "Find the bottleneck link for each path",
+        "text": "Each end-to-end connection passes through three links:\n\nthe server link ($$R_S = 50\\ \\text{Mbps}$$),\n\nthe shared middle link ($$R = 300\\ \\text{Mbps}$$), and\n\nthe client link ($$R_C = 90\\ \\text{Mbps}$$).\n\nBecause the middle link is shared equally among four connections, each pair gets a fair share of\n$$ \\dfrac{R}{4} = \\dfrac{300}{4} = 75\\ \\text{Mbps} $$.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

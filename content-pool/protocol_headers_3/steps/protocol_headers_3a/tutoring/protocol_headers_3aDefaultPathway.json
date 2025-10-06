@@ -1,0 +1,12 @@
+[
+    {
+        "id": "protocol_headers_3-h1",
+        "dependencies": [],
+        "title": "Identify which layer added each header",
+        "text": "Headers are added by each layer in the Internet protocol stack to enable proper delivery and processing:\n\nApplication Layer \u2013 adds application-specific information (not typically in the link-layer frame).\n\nTransport Layer \u2013 adds a segment header for process-to-process communication (e.g., TCP/UDP).\n\nNetwork Layer \u2013 adds a datagram header for host-to-host addressing (e.g., IP).\n\nLink Layer \u2013 adds a frame header for delivery across a single network link.\n\nPhysical Layer \u2013 does not add a header, it transmits raw bits.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

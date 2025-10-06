@@ -1,0 +1,10 @@
+{
+    "id": "how_many_calls_can_be_carried",
+    "title": "How many calls can be carried?",
+    "body": "Consider the circuit-switched network shown in the figure below, with  four circuit switches A, B, C, and D. Suppose there are 20 circuits between A and B, 19 circuits between B and C, 15 circuits between C and D, and 16 circuits between D and A.\n \\n##1.3.4.gif##",
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson3",
+    "courseName": "Introduction to Computer Networks (Kurose & Ross)"
+}

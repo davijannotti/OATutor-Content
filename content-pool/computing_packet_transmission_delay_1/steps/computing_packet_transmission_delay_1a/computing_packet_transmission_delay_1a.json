@@ -1,0 +1,21 @@
+{
+    "id": "computing_packet_transmission_delay_1",
+    "problemType": "MultipleChoice",
+    "stepTitle": "",
+    "stepBody": "",
+    "stepAnswer": [
+        ".000012 secs"
+    ],
+    "answerType": "string",
+    "choices": [
+        ".00012 secs",
+        ".0015 secs",
+        "666,666 secs",
+        ".000012 secs",
+        ".0000015 secs"
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson4"
+}

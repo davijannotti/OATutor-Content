@@ -1,0 +1,12 @@
+[
+    {
+        "id": "components_of_packet_delay_2-h1",
+        "dependencies": [],
+        "title": "Think about what happens to a packet step by step",
+        "text": "A packet experiences several types of delay as it travels: first, it\u2019s processed by the router; then it may wait in a queue; next, it\u2019s transmitted bit by bit into the link; and finally, the bits propagate through the physical medium to the next node. Match each delay description to where it fits in this sequence.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

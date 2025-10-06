@@ -1,0 +1,12 @@
+[
+    {
+        "id": "computing_packet_transmission_delay_3-h1",
+        "dependencies": [],
+        "title": "Convert and divide carefully",
+        "text": "Be careful with unit conversions: 1 byte = 8 bits, and 1 Gbps = 1,000,000,000 bits per second.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

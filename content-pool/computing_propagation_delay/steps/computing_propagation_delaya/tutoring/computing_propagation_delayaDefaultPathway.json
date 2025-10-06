@@ -1,0 +1,12 @@
+[
+    {
+        "id": "computing_propagation_delay-h1",
+        "dependencies": [],
+        "title": "Focus on distance and propagation speed",
+        "text": "Propagation delay depends only on the physical length of the link and the propagation speed of the signal \u2014 not on packet size or transmission rate.\nUse the formula:\n$$ d_{prop} = \\dfrac{\\text{length of link (meters)}}{\\text{propagation speed (meters/second)}} $$\nMake sure your units match before dividing.",
+        "variabilization": {},
+        "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+        "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+        "type": "solution"
+    }
+]

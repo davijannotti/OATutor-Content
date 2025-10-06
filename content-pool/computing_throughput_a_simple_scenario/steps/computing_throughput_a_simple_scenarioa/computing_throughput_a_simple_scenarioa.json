@@ -1,0 +1,19 @@
+{
+    "id": "computing_throughput_a_simple_scenario",
+    "problemType": "MultipleChoice",
+    "stepTitle": "",
+    "stepBody": "",
+    "stepAnswer": [
+        "1.5 Mbps"
+    ],
+    "answerType": "string",
+    "choices": [
+        "11.5 Mbps",
+        "10 Mbps",
+        "1.5 Mbps"
+    ],
+    "variabilization": {},
+    "oer": "https://gaia.cs.umass.edu/kurose_ross/online_lectures.htm",
+    "license": "Educational Use - Content based on Kurose & Ross material. Copyright on the original website.",
+    "lesson": "lesson4"
+}
